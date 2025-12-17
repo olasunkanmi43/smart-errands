@@ -1,5 +1,7 @@
 import { useRef, useState } from "react";
-import emailjs from "@emailjs/browser";
+// import emailjs from "@emailjs/browser";
+import emailjs from "emailjs-com";
+
 
 // Reusable Input Component
 const Input = ({

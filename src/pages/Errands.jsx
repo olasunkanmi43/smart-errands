@@ -156,7 +156,9 @@
 // }
 
 import { useRef, useState } from "react";
-import emailjs from "@emailjs/browser";
+// import emailjs from "@emailjs/browser";
+import emailjs from "emailjs-com";
+
 
 export default function Errands() {
   const formRef = useRef(null);

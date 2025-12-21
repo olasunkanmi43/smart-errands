@@ -294,3 +294,17 @@ display: flex;
 font-size: 2.1rem;
 }
 }
+
+.error {
+  color: #dc2626;
+  font-size: 0.875rem;
+  margin-top: 4px;
+}
+
+.success {
+  background: #dcfce7;
+  color: #166534;
+  padding: 10px;
+  margin-bottom: 16px;
+  border-radius: 6px;
+}
